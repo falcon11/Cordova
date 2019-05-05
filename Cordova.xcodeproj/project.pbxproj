@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F9C77666227EF4EC00F7927F /* Cordova.h in Headers */ = {isa = PBXBuildFile; fileRef = F9DA648E227ECC5B003CF17C /* Cordova.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F9DA64D8227ECCAA003CF17C /* NSDictionary+CordovaPreferences.m in Sources */ = {isa = PBXBuildFile; fileRef = F9DA6498227ECCAA003CF17C /* NSDictionary+CordovaPreferences.m */; };
 		F9DA64D9227ECCAA003CF17C /* CDVWhitelist.h in Headers */ = {isa = PBXBuildFile; fileRef = F9DA6499227ECCAA003CF17C /* CDVWhitelist.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F9DA64DA227ECCAA003CF17C /* CDVPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = F9DA649A227ECCAA003CF17C /* CDVPlugin.m */; };
@@ -331,6 +332,7 @@
 				F9DA64DB227ECCAA003CF17C /* CDVUserAgentUtil.h in Headers */,
 				F9DA64E3227ECCAA003CF17C /* CDVConfigParser.h in Headers */,
 				F9DA64E2227ECCAA003CF17C /* CDVViewController.h in Headers */,
+				F9C77666227EF4EC00F7927F /* Cordova.h in Headers */,
 				F9DA650D227ECCAA003CF17C /* CDVDebug.h in Headers */,
 				F9DA64FC227ECCAA003CF17C /* CDVPlugin+Private.h in Headers */,
 				F9DA6507227ECCAA003CF17C /* CDVUIWebViewNavigationDelegate.h in Headers */,
